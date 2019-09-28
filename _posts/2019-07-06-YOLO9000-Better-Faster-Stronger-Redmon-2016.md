@@ -2,6 +2,7 @@
 title: "YOLO9000: Better, Faster, Stronger - Redmon et al. - 2016"
 tag:
 - Object Detection
+redirect_from: /YOLO9000-Better-Faster-Stronger-Redmon-2016.html
 ---
 
 

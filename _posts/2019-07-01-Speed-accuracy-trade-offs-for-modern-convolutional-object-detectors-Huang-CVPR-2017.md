@@ -2,6 +2,7 @@
 title: Speed/accuracy trade-offs for modern convolutional object detectors - Huang et al. - CVPR 2017 - TensorFlow Code
 tag:
 - Object Detection
+redirect_from: /Speed-accuracy-trade-offs-for-modern-convolutional-object-detectors-Huang-CVPR-2017.html
 ---
 
 ## Info

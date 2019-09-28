@@ -2,6 +2,7 @@
 title: "R-FCN: Object Detection via Region-based Fully Convolutional Networks - Dai - NIPS 2016 - MXNet Code"
 tag:
 - Object Detection
+redirect_from: /R-FCN-Object-Detection-via-Region-based-Fully-Convolutional-Networks-Dai-NIPS-2016.html
 ---
 
 

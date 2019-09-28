@@ -2,7 +2,7 @@
 title: "You Only Look Once: Unified, Real Time Object Detection - Redmon et al. - CVPR 2016"
 tag:
 - Object Detection
-- Middle-Level Vision
+redirect_from: /You-Only-Look-Once-Unified-Real-Time-Object-Detection-Redmon-CVPR-2016.html
 
 ---
 

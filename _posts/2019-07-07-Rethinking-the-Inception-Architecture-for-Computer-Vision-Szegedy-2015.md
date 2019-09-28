@@ -3,11 +3,11 @@ title: (Inception V3)Rethinking the Inception Architecture for Computer Vision -
 tag:
 - Image Classification
 - CNN
+redirect_from: /Rethinking-the-Inception-Architecture-for-Computer-Vision-Szegedy-2015.html
 ---
 
-# 
-
 ## Info
+
 - Title: **Rethinking the Inception Architecture for Computer Vision**
 - Author: C. Szegedy, V. Vanhoucke, S. Ioffe, J. Shlens, and Z. Wojna
 - Arxiv: [1512.00567](https://arxiv.org/abs/1512.00567)

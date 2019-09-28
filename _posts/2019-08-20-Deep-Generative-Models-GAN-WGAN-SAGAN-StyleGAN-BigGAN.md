@@ -4,6 +4,7 @@ tag:
 - Review
 - Image Generation
 - GAN
+redirect_from: /Deep-Generative-Models-GAN-WGAN-SAGAN-StyleGAN-BigGAN.html
 ---
 
 

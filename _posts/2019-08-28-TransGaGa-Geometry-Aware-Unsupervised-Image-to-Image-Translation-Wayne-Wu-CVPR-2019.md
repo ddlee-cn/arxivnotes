@@ -3,6 +3,7 @@ title: "TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation - Wayn
 tag:
 - Image-to-Image Translation
 - GAN
+redirect_from: /TransGaGa-Geometry-Aware-Unsupervised-Image-to-Image-Translation-Wayne-Wu-CVPR-2019.html
 ---
 
 

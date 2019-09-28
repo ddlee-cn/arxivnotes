@@ -2,6 +2,7 @@
 tile: (OHEM)Training Region-based Object Detectors with Online Hard Example Mining - Shrivastava et al. - CVPR 2016
 tag:
 - Object Detection
+redirect_from: /Training-Region-based-Object-Detectors-with-Online-Hard-Example-Mining-Shrivastava-CVPR-2016.html
 ---
 
 ## Info

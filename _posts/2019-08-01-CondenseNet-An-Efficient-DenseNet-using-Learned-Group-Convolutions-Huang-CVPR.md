@@ -3,6 +3,7 @@ title: "CondenseNet: An Efficient DenseNet using Learned Group Convolutions - Hu
 tag:
 - Image Classification
 - CNN
+redirect_from: /CondenseNet-An-Efficient-DenseNet-using-Learned-Group-Convolutions-Huang-CVPR.html
 ---
 
 

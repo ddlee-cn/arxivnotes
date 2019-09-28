@@ -3,6 +3,7 @@ title: "InstaGAN: Instance-aware Image-to-Image Translation - Sangwoo Mo - ICLR 
 tag:
 - Image-to-Image Translation
 - GAN
+redirect_from: /InstaGAN-Instance-aware-Image-to-Image-Translation-Sangwoo-Mo-ICLR-2019.html
 ---
 
 

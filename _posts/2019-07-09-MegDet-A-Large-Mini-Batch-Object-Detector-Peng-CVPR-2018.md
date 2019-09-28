@@ -2,6 +2,7 @@
 title: "MegDet: A Large Mini-Batch Object Detector - C. Peng et al - CVPR 2018"
 tag:
 - Object Detection
+redirect_from: /MegDet-A-Large-Mini-Batch-Object-Detector-Peng-CVPR-2018.html
 ---
 
 ## Info

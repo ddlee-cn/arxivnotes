@@ -3,6 +3,7 @@ title: Inception-v4, Inception-ResNet and the Impact of Residual Connections on 
 tag:
 - CNN
 - Image Classification
+redirect_from: /Inception-v4-Inception-ResNet-and-the-Impact-of-Residual-Connections-on-Learning-Szegedy-2016.html
 ---
 
 ## Info

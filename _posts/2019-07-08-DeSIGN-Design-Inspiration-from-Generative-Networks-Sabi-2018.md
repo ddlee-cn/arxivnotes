@@ -3,6 +3,7 @@ title: "DeSIGN: Design Inspiration from Generative Networks - Sabi - 2018"
 tag:
 - GAN
 - Application
+redirect_from: /DeSIGN-Design-Inspiration-from-Generative-Networks-Sabi-2018.html
 ---
 
 ## Info

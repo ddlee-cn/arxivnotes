@@ -3,6 +3,7 @@ title: Video Generation from Single Semantic Label Map - Junting Pan - CVPR 2019
 tag:
 - Video Generation
 - GAN
+redirect_from: /Video-Generation-from-Single-Semantic-Label-Map-Junting-Pan-CVPR-2019.html
 ---
 
 

@@ -3,6 +3,7 @@ title: (VQ-VAE)Neural Discrete Representation Learning - van den Oord - NIPS 201
 tag:
 - VAE
 - Image Generation
+redirect_from: /Neural-Discrete-Representation-Learning.html
 ---
 
 

@@ -3,6 +3,7 @@ title: "Object Detection Must Reads(3): SNIP, SNIPER, OHEM, and DSOD"
 tag:
 - Object Detection
 - Review
+redirect_from: /object-detection-must-reads-snip-sniper-ohem-dsod.html
 ---
 
 

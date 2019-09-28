@@ -3,6 +3,7 @@ title: "Mocycle-GAN: Unpaired Video-to-Video Translation - Yang Chen -  ACM MM 2
 tag:
 - Video Translation
 - GAN
+redirect_from: /Mocycle-GAN-Unpaired-Video-to-Video-Translation-Yang-Chen--ACMMM-2019.html
 ---
 
 

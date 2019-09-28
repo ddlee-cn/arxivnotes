@@ -3,7 +3,7 @@ title: A Neural Algorithm of Artistic Style - Gatys et al. - CVPR 2016
 tag:
 - Style Transfer
 - Art
-
+redirect_from: /A-Neural-Algorithm-of-Artistic-Style-Gatys-CVPR-2016.html
 ---
 
 

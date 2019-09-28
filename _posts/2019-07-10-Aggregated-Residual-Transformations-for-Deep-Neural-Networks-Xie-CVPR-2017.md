@@ -3,6 +3,7 @@ title: "(ResNeXt)Aggregated Residual Transformations for Deep Neural Networks - 
 tag:
 - CNN
 - Image Classification
+redirect_from: /Aggregated-Residual-Transformations-for-Deep-Neural-Networks-Xie-CVPR-2017.html
 ---
 
 ## Info

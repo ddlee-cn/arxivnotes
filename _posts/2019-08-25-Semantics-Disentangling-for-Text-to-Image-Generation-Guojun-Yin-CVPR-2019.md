@@ -3,6 +3,7 @@ title: Semantics Disentangling for Text-to-Image Generation - Guojun Yin - CVPR 
 tag:
 - Text-to-Image
 - GAN
+redirect_from: /Semantics-Disentangling-for-Text-to-Image-Generation-Guojun-Yin-CVPR-2019.html
 ---
 
 

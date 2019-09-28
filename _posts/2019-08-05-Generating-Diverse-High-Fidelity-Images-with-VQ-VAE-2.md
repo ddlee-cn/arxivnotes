@@ -3,6 +3,7 @@ title: Generating Diverse High-Fidelity Images with VQ-VAE-2 - Razavi - 2019
 tag:
 - VAE
 - Image Generation
+redirect_from: /Generating-Diverse-High-Fidelity-Images-with-VQ-VAE-2.html
 ---
 
 

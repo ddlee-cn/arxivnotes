@@ -3,6 +3,7 @@ title: Deep Image Prior - Ulyanov - CVPR 2018
 tag:
 - Low-Level Vision
 - Super-Resolution
+redirect_from: /Deep-Image-Prior-Ulyanov-CVPR-2018.html
 ---
 
 ## Info

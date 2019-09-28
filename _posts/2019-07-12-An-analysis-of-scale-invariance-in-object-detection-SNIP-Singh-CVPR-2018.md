@@ -2,6 +2,7 @@
 title: An analysis of scale invariance in object detection - SNIP - Singh - CVPR 2018
 tag:
 - Object Detection
+redirect_from: /An-analysis-of-scale-invariance-in-object-detection-SNIP-Singh-CVPR-2018.html
 ---
 
 

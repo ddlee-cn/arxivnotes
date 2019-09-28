@@ -3,6 +3,7 @@ title: Conditional Image Generation with PixelCNN Decoders - van den Oord - NIPS
 tag:
 - Image Generation
 - AutoRegressive
+redirect_from:
 ---
 
 

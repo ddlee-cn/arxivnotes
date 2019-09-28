@@ -3,6 +3,7 @@ title: "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning 
 tag:
 - GAN
 - Image Inpainting
+redirect_from: /EdgeConnect-Generative-Image-Inpainting-with-Adversarial-Edge-Learning-Nazeri.html
 ---
 
 

@@ -3,6 +3,7 @@ title: "Xception: Deep Learning with Depthwise Seperable Convolutions - Chollet 
 tag:
 - Image Classification
 - CNN
+redirect_from: /Xception-Deep-Learning-with-Depthwise-Seperable-Convolutions-Chollet-2016.html
 ---
 
 

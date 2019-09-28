@@ -2,6 +2,7 @@
 title: "DSOD: learning deeply supervised object detectors from scratch - Shen - ICCV 2017 - Caffe Code"
 tag:
 - Object Detection
+redirect_from: /DSOD-learning-deeply-supervised-object-detectors-from-scratch-Shen-ICCV-2017.html
 ---
 
 

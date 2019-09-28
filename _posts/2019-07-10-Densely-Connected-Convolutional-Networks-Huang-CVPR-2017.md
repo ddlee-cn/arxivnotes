@@ -3,6 +3,7 @@ title: (DenseNet)Densely Connected Convolutional Networks - Huang - CVPR 2017
 tag:
 - Image Classification
 - CNN
+redirect_from: /Densely-Connected-Convolutional-Networks-Huang-CVPR-2017.html
 ---
 
 ## Info

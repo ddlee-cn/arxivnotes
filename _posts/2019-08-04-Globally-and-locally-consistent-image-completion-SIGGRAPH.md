@@ -3,6 +3,7 @@ title: Globally and locally consistent image completion - Iizuka - SIGGRAPH 2017
 tag:
 - GAN
 - Image Inpainting
+redirect_from: Globally-and-locally-consistent-image-completion-SIGGRAPH.html
 ---
 
 

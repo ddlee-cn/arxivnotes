@@ -3,6 +3,7 @@ title: "Convolutional Neural Network Must Reads: Xception, ShuffleNet, ResNeXt a
 tag:
 - Image Classification
 - CNN
+redirect_from: /convolutional-neural-network-xception-shufflenet-resnext-densenet.html
 ---
 
 

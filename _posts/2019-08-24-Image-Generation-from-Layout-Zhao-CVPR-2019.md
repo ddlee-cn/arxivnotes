@@ -3,6 +3,7 @@ title: Image Generation from Layout - Zhao - CVPR 2019
 tag:
 - Image Generation
 - GAN
+redirect_from: /Image-Generation-from-Layout-Zhao-CVPR-2019.html
 ---
 
 

@@ -3,6 +3,7 @@ title: "Object Detection Must Reads(2): YOLO, YOLO9000, and RetinaNet"
 tag:
 - Object Detection
 - Review
+redirect_from: /object-detection-must-reads-yolo-retinanet.html
 ---
 
 

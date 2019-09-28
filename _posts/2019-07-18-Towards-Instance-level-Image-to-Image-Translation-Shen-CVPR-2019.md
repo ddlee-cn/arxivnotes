@@ -3,6 +3,7 @@ title: Towards Instance-level Image-to-Image Translation - Shen - CVPR 2019
 tag:
 - Image-to-Image Translation
 - GAN
+redirect_from: /Towards-Instance-level-Image-to-Image-Translation-Shen-CVPR-2019.html
 ---
 
 

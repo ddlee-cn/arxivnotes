@@ -3,9 +3,8 @@ title: "Imbalance Problems in Object Detection: A Review - Oksuz - 2019"
 tag:
 - Object Detection
 - Review
+redirect_from: /Imbalance-Problems-in-Object-Detection-A-Review-Oksuz-2019.html
 ---
-
-# 
 
 ## Info
 - Title: **Imbalance Problems in Object Detection: A Review**

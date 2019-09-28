@@ -4,6 +4,7 @@ tag:
 - Art
 - Application
 - GAN
+redirect_from: /Content-aware-Generative-Modeling-of-Graphic-Design-Layouts-Zheng-SIGGRSPH.html
 ---
 
 

@@ -4,6 +4,7 @@ tag:
 - Review
 - VAE
 - Image Generation
+redirect_from: /Deep-Generative-Models-Taxonomy-VAE.html
 ---
 
 

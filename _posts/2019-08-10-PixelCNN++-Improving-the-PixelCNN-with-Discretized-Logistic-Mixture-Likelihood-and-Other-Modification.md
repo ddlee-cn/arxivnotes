@@ -3,6 +3,7 @@ title: "PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Lik
 tag:
 - Image Generation
 - AutoRegressive
+redirect_from: /PixelCNN++-Improving-the-PixelCNN-with-Discretized-Logistic-Mixture-Likelihood-and-Other-Modification.html
 ---
 
 

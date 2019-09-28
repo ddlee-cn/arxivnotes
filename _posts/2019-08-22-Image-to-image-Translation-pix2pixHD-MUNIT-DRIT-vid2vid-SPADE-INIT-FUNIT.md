@@ -4,6 +4,7 @@ tag:
 - Image-to-Image Translation
 - GAN
 - Review
+redirect_from: /Image-to-image-Translation-pix2pixHD-MUNIT-DRIT-vid2vid-SPADE-INIT-FUNIT.html
 ---
 
 

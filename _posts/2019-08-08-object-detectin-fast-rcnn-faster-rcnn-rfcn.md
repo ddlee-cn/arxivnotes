@@ -3,7 +3,7 @@ title: "Object Detection Must Reads(1): Fast RCNN, Faster RCNN, R-FCN and FPN"
 tag:
 - Object Detection
 - Review
-
+redirect_from: /object-detectin-fast-rcnn-faster-rcnn-rfcn.html
 ---
 
 [TOC]

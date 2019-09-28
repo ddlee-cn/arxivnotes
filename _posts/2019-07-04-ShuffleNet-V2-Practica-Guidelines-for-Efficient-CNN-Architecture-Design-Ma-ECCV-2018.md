@@ -3,6 +3,7 @@ title: "ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Desig
 tag:
 - Object Detection
 - Image Classification
+redirect_from: /ShuffleNet-V2-Practica-Guidelines-for-Efficient-CNN-Architecture-Design-Ma-ECCV-2018.html
 ---
 
 ## Info

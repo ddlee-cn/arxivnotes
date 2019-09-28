@@ -5,6 +5,7 @@ tag:
 - Application
 - GAN
 - Attention
+redirect_from: /Progressive-Pose-Attention-Transfer-for-Person-Image-Generation-Zhen-Zhu-CVPR-2019.html
 ---
 
 

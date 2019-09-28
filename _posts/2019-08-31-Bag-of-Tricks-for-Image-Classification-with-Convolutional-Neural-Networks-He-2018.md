@@ -3,6 +3,7 @@ title: Bag of Tricks for Image Classification with Convolutional Neural Networks
 tag:
 - Image Classification
 - Engineering
+redirect_from: /Bag-of-Tricks-for-Image-Classification-with-Convolutional-Neural-Networks-He-2018.html
 ---
 
 

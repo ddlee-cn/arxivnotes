@@ -4,6 +4,7 @@ tag:
 - GAN
 - Attention
 - Image Inpainting
+redirect_from: /Generative-Image-Inpainting-with-Contextual-Attention-Yu-CVPR-TensorFlow.html
 ---
 
 

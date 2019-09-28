@@ -3,6 +3,7 @@ title: "Recycle-GAN: Unsupervised Video Retargeting - Bansal - ECCV 2018"
 tag:
 - Video Translation
 - GAN
+redirect_from: /Recycle-GAN-Unsupervised-Video-Retargeting-Bansal-ECCV-2018.html
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Faster R-CNN: Towards Real Time Object Detection with Region Proposal - Ren - NIPS 2015"
 tag:
 - Object Detection
+redirect_from: /Faster-R-CNN-Towards-Real-Time-Object-Detection-with-Region-Proposal-Ren-NIPS-2015.html
 ---
 
 ## Info

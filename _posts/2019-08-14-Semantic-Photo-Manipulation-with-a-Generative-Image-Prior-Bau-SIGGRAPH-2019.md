@@ -3,6 +3,7 @@ title: Semantic Photo Manipulation with a Generative Image Prior - Bau -  SIGGRA
 tag:
 - Image Manipulation
 - GAN
+redirect_from: /Semantic-Photo-Manipulation-with-a-Generative-Image-Prior-Bau-SIGGRAPH-2019.html
 ---
 
 

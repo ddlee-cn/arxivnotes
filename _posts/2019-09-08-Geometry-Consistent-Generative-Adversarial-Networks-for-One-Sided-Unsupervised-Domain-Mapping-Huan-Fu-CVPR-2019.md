@@ -3,6 +3,7 @@ title: Geometry-Consistent Generative Adversarial Networks for One-Sided Unsuper
 tag:
 - GAN
 - Domain Transfer
+redirect_from: /Geometry-Consistent-Generative-Adversarial-Networks-for-One-Sided-Unsupervised-Domain-Mapping-Huan-Fu-CVPR-2019.html
 ---
 
 

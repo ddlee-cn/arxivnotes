@@ -3,6 +3,7 @@ title: Unsupervised Person Image Generation with Semantic Parsing Transformation
 tag:
 - Image Generation
 - GAN
+redirect_from: /Unsupervised-Person-Image-Generation-with-Semantic-Parsing-Transformation-Sijie-Song-CVPR-2019.html
 ---
 
 

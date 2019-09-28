@@ -3,6 +3,7 @@ title: "Image Inpainting: From PatchMatch to Pluralistic"
 tag:
 - Image Inpainting
 - Review
+redirect_from: /Image-Inpainting-PatchMatch-Edge-Connect-Partial-Conv.html
 ---
 
 

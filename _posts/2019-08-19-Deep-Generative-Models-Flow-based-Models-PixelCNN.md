@@ -4,6 +4,7 @@ tag:
 - AutoRegressive
 - Flow-based
 - Review
+redirect_from: /Deep-Generative-Models-Flow-based-Models-PixelCNN.html
 ---
 
 

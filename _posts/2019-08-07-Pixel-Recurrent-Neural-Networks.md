@@ -3,6 +3,7 @@ title: (PixelRNN & PixelCNN)Pixel Recurrent Neural Networks - van den Oord - ICM
 tag:
 - Image Generation
 - AutoRegressive
+redirect_from: /Pixel-Recurrent-Neural-Networks.html
 ---
 
 

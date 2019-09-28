@@ -2,6 +2,7 @@
 title: "SNIPER: efficient multi-scale training - Singh - NIPS 2018 - MXNet Code"
 tag:
 - Object Detection
+redirect_from: /SNIPER-efficient-multi-scale-training-Singh-NIPS-2018.html
 ---
 
 

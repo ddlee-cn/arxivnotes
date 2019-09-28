@@ -3,6 +3,7 @@ title: "CollaGAN : Collaborative GAN for Missing Image Data Imputation - Dongwoo
 tag:
 - Image Generation
 - GAN
+redirect_from: /CollaGAN-Collaborative-GAN-for-Missing-Image-Data-Imputation-Dongwook-Lee-CVPR-2019.html
 ---
 
 

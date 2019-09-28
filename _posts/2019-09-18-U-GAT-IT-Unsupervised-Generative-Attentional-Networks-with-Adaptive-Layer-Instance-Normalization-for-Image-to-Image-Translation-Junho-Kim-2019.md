@@ -3,6 +3,7 @@ title: "U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Lay
 tag:
 - Image-to-Image Translation
 - GAN
+redirect_from: /U-GAT-IT-Unsupervised-Generative-Attentional-Networks-with-Adaptive-Layer-Instance-Normalization-for-Image-to-Image-Translation-Junho-Kim-2019.html
 ---
 
 

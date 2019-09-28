@@ -2,6 +2,7 @@
 title: "On-the-fly Operation Batching in Dynamic Computation Graphs - Neubig et al. - 2017"
 tag:
 - Engineering
+redirect_from: /On-the-fly-Operation-Batching-in-Dynamic-Computation-Graphs-Neubig-2017.html
 ---
 
 

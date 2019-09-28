@@ -2,6 +2,7 @@
 title: Point-to-Point Video Generation - Tsun-Hsuan Wang - ICCV 2019
 tag:
 - Video Generation
+redirect_from: /Point-to-Point-Video-Generation-Tsun-Hsuan-Wang-ICCV-2019.html
 ---
 
 

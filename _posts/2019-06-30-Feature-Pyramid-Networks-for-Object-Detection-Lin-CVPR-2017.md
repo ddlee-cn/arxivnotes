@@ -2,7 +2,7 @@
 title: (FPN)Feature Pyramid Networks for Object Detection - Lin - CVPR 2017
 tag:
 - Object Detection
-
+redirect_from: /Feature-Pyramid-Networks-for-Object-Detection-Lin-CVPR-2017.html
 ---
 
 

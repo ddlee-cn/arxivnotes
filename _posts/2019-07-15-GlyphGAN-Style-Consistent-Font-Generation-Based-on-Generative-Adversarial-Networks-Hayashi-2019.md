@@ -3,6 +3,7 @@ title: "GlyphGAN: Style-Consistent Font Generation Based on Generative Adversari
 tag:
 - GAN
 - Application
+redirect_from: /GlyphGAN-Style-Consistent-Font-Generation-Based-on-Generative-Adversarial-Networks-Hayashi-2019.html
 ---
 
 

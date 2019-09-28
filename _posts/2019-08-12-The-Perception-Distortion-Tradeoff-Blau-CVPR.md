@@ -3,6 +3,7 @@ title: The Perception-Distortion Tradeoff - Blau - CVPR 2018 - Matlab
 tag:
 - Low-Level Vision
 - Theory
+redirect_from: /The-Perception-Distortion-Tradeoff-Blau-CVPR.html
 ---
 
 

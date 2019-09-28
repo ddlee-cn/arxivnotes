@@ -3,6 +3,7 @@ title: "From Classification to Panoptic Segmentation: 7 years of Visual Understa
 tag:
 - Visual Understanding
 - Review
+redirect_from: /Classification-to-Panoptic-Segmentation-visual-understanding-CVPR.html
 ---
 
 
