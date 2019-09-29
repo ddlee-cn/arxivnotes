@@ -9,7 +9,7 @@ redirect_from: /Image-to-image-Translation-pix2pix-CycleGAN-UNIT-BicycleGAN-Star
 
 
 
-[TOC]
+
 
 
 

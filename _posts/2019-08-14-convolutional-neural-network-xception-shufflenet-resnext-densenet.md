@@ -8,7 +8,7 @@ redirect_from: /convolutional-neural-network-xception-shufflenet-resnext-densene
 
 
 
-[TOC]
+
 
 
 

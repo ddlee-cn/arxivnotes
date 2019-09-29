@@ -13,7 +13,7 @@ This is the third part of Deep Generative Models([Part 1](https://arxivnote.ddle
 
 
 
-[TOC]
+
 
 
 

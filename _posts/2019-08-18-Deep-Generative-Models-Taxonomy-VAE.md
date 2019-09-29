@@ -15,7 +15,7 @@ A Generative Model learns a probability distribution from data with prior knowle
 
 
 
-[TOC]
+
 
 
 

@@ -9,7 +9,7 @@ redirect_from: /Image-to-image-Translation-pix2pixHD-MUNIT-DRIT-vid2vid-SPADE-IN
 
 
 
-[TOC]
+
 
 
 

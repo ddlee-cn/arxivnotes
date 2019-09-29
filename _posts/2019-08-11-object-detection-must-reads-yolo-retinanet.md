@@ -10,14 +10,6 @@ redirect_from: /object-detection-must-reads-yolo-retinanet.html
 
 In [previous article]((https://arxivnote.ddlee.cn/object-detectin-fast-rcnn-faster-rcnn-rfcn.html)), we reviewed 2-stage state-of-art object detectors: Fast RCNN, Faster RCNN, R-FCN, and FPN. We'll introduce 1-stage object detection models in this one.
 
-
-
-[TOC]
-
-
-
-
-
 ## (YOLO)You Only Look Once: Unified, Real Time Object Detection - Redmon et al. - CVPR 2016
 
 ### Info

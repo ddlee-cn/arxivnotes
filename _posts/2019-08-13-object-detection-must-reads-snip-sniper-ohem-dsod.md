@@ -12,7 +12,7 @@ In [part 1](https://arxivnote.ddlee.cn/object-detectin-fast-rcnn-faster-rcnn-rfc
 
 
 
-[TOC]
+
 
 
 
