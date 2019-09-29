@@ -3,7 +3,7 @@ title: "MoCoGAN: Decomposing Motion and Content for Video Generation - Tulyakov 
 tag:
 - Video Generation
 - GAN
-redirect_from: /%20MoCoGAN-Decomposing-Motion-and-Content-for-Video-Generation-Tulyakov-CVPR-2018.html
+redirect_from: /MoCoGAN-Decomposing-Motion-and-Content-for-Video-Generation-Tulyakov-CVPR-2018.html
 ---
 
 
