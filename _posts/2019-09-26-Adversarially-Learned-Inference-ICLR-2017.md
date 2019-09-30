@@ -1,5 +1,5 @@
 ---
-title: (ALI)Adversarially Learned Inference
+title: (ALI)Adversarially Learned Inference - Dumoulin - ICLR 2017
 tag:
 - GAN
 - Image Generation
@@ -160,4 +160,10 @@ The Tiny Imagenet dataset is a version of the [ILSVRC2012](http://www.image-net.
 [OpenReview](https://openreview.net/forum?id=B1ElR4cggS)
 
 ## Related
+
+- [(BiGAN)Adversarial Feature Learning - ICLR 2017](https://arxivnote.ddlee.cn/2019/09/27/Adversarial-Feature-Learning.html)
+
+- [Deep Generative Models(Part 1): Taxonomy and VAEs](https://arxivnote.ddlee.cn/2019/08/18/Deep-Generative-Models-Taxonomy-VAE.html)
+- [Deep Generative Models(Part 2): Flow-based Models(include PixelCNN)](https://arxivnote.ddlee.cn/2019/08/19/Deep-Generative-Models-Flow-based-Models-PixelCNN.html)
+- [Deep Generative Models(Part 3): GANs(from GAN to BigGAN)](https://arxivnote.ddlee.cn/2019/08/20/Deep-Generative-Models-GAN-WGAN-SAGAN-StyleGAN-BigGAN.html)
 

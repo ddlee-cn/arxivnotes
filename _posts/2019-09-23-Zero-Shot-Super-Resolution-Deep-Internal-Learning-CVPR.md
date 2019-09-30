@@ -1,5 +1,5 @@
 ---
-title: Zero-Shot Super-Resolution using Deep Internal Learning
+title: Zero-Shot Super-Resolution using Deep Internal Learning - Shocher - CVPR 2018
 tag:
 - Super-Resolution
 - Zero-Shot
@@ -213,3 +213,5 @@ def forward_backward_pass(self, lr_son, hr_father):
 - [Deep Image Prior - Ulyanov - CVPR 2018](https://arxivnote.ddlee.cn/2019/08/26/Deep-Image-Prior-Ulyanov-CVPR-2018.html)
 - [The Perception-Distortion Tradeoff - Blau - CVPR 2018 - Matlab](https://arxivnote.ddlee.cn/2019/08/12/The-Perception-Distortion-Tradeoff-Blau-CVPR.html)
 - [Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff - Blau - ICML 2019](https://arxivnote.ddlee.cn/2019/08/15/Rethinking-Lossy-Compression-The-Rate-Distortion-Perception-Tradeoff-Blau-ICML.html)
+- [Image and Video Super-Resolution: SRGAN, ESRGAN and EDVR](https://cvnote.ddlee.cn/2019/09/23/Image-Super-Resolution-SRGAN-ESRGAN-EDVR.html)
+- [Common Datasets for Image Super-Resolution](https://cvnote.ddlee.cn/2019/09/22/Image-Super-Resolution-Datasets.html)

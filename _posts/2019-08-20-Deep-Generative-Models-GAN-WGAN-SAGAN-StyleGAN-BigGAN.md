@@ -309,11 +309,14 @@ We've reviewed the history and state-of-the-art deep generative models, and buil
      data-ad-format="fluid"
      data-ad-client="ca-pub-4466575858054752"
      data-ad-slot="8787986126"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 ## Related
+
+- [GANs for Image Generation: ProGAN, SAGAN, BigGAN, StyleGAN](https://cvnote.ddlee.cn/2019/09/15/ProGAN-SAGAN-BigGAN-StyleGAN.html)
+
 - [Deep Generative Models(Part 1): Taxonomy and VAEs](https://arxivnote.ddlee.cn/Deep-Generative-Models-Taxonomy-VAE.html)
 - [Deep Generative Models(Part 2): Flow-based Models(include PixelCNN)](https://arxivnote.ddlee.cn/Deep-Generative-Models-Flow-based-Models-PixelCNN.html)
 - [Image to Image Translation(1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN](https://arxivnote.ddlee.cn/Image-to-image-Translation-pix2pix-CycleGAN-UNIT-BicycleGAN-StarGAN.html)

@@ -1,5 +1,5 @@
 ---
-title: Adversarial Feature Learning
+title: (BiGAN)Adversarial Feature Learning - Donahue - ICLR 2017
 tag:
 - GAN
 - Image Generation
@@ -38,4 +38,9 @@ Similar to Adversarially learned inference (ALI), Bidirectional GAN (BiGAN) lear
 
 
 ## Related
+
+- [(ALI)Adversarially Learned Inference - ICLR 2017](https://arxivnote.ddlee.cn/2019/09/26/Adversarially-Learned-Inference-ICLR-2017.html)
+- [Deep Generative Models(Part 1): Taxonomy and VAEs](https://arxivnote.ddlee.cn/2019/08/18/Deep-Generative-Models-Taxonomy-VAE.html)
+- [Deep Generative Models(Part 2): Flow-based Models(include PixelCNN)](https://arxivnote.ddlee.cn/2019/08/19/Deep-Generative-Models-Flow-based-Models-PixelCNN.html)
+- [Deep Generative Models(Part 3): GANs(from GAN to BigGAN)](https://arxivnote.ddlee.cn/2019/08/20/Deep-Generative-Models-GAN-WGAN-SAGAN-StyleGAN-BigGAN.html)
 

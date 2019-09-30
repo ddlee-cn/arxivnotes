@@ -1,5 +1,5 @@
 ---
-title: Deep Flow-Guided Video Inpainting
+title: Deep Flow-Guided Video Inpainting - Rui Xu - CVPR 2019
 tag:
 - Video Inpainting
 - Video
@@ -11,7 +11,7 @@ tag:
 
 - Title: Deep Flow-Guided Video Inpainting
 - Task: Video Inpainting
-- Author:
+- Author: Rui Xu, Xiaoxiao Li, Bolei Zhou, Chen Change Loy
 - Date: May 2019
 - Arxiv: [1905.02884](https://arxiv.org/abs/1905.02884)
 - Published: CVPR 2019
@@ -391,3 +391,9 @@ while masked_frame_num > 0:
 
 ## Related
 
+- [An Internal Learning Approach to Video Inpainting - ICCV 2019](https://arxivnote.ddlee.cn/2019/09/24/Internal-Learning-Video-Inpainting-ICCV.html)
+- [Image Inpainting: From PatchMatch to Pluralistic](https://arxivnote.ddlee.cn/2019/09/22/Image-Inpainting-PatchMatch-Edge-Connect-Partial-Conv.html)
+- [Deep Image Prior - Ulyanov - CVPR 2018](https://arxivnote.ddlee.cn/2019/08/26/Deep-Image-Prior-Ulyanov-CVPR-2018.html)
+- [Generative Image Inpainting with Contextual Attention - Yu - CVPR 2018 - TensorFlow](https://arxivnote.ddlee.cn/2019/08/06/Generative-Image-Inpainting-with-Contextual-Attention-Yu-CVPR-TensorFlow.html)
+- [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning - Nazeri - 2019 - PyTorch](https://arxivnote.ddlee.cn/2019/08/05/EdgeConnect-Generative-Image-Inpainting-with-Adversarial-Edge-Learning-Nazeri.html)
+- [Globally and locally consistent image completion - Iizuka - SIGGRAPH 2017](https://arxivnote.ddlee.cn/2019/08/04/Globally-and-locally-consistent-image-completion-SIGGRAPH.html)

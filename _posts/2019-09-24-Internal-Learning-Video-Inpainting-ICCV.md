@@ -1,5 +1,5 @@
 ---
-title: An Internal Learning Approach to Video Inpainting
+title: An Internal Learning Approach to Video Inpainting - Haotian Zhang - ICCV 2019
 tag:
 - Video Inpainting
 - Low-Level Vision
@@ -97,5 +97,9 @@ other patches from neighboring locations and other frames. Specifically, we sele
 
 ## Related
 
+- [Deep Flow-Guided Video Inpainting - CVPR 2019](https://arxivnote.ddlee.cn/2019/09/28/Flow-Guided-Video-Inpainting.html)
+- [Image Inpainting: From PatchMatch to Pluralistic](https://arxivnote.ddlee.cn/2019/09/22/Image-Inpainting-PatchMatch-Edge-Connect-Partial-Conv.html)
 - [Deep Image Prior - Ulyanov - CVPR 2018](https://arxivnote.ddlee.cn/2019/08/26/Deep-Image-Prior-Ulyanov-CVPR-2018.html)
-- [The Perception-Distortion Tradeoff - Blau - CVPR 2018 - Matlab](https://arxivnote.ddlee.cn/2019/08/12/The-Perception-Distortion-Tradeoff-Blau-CVPR.html)
+- [Generative Image Inpainting with Contextual Attention - Yu - CVPR 2018 - TensorFlow](https://arxivnote.ddlee.cn/2019/08/06/Generative-Image-Inpainting-with-Contextual-Attention-Yu-CVPR-TensorFlow.html)
+- [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning - Nazeri - 2019 - PyTorch](https://arxivnote.ddlee.cn/2019/08/05/EdgeConnect-Generative-Image-Inpainting-with-Adversarial-Edge-Learning-Nazeri.html)
+- [Globally and locally consistent image completion - Iizuka - SIGGRAPH 2017](https://arxivnote.ddlee.cn/2019/08/04/Globally-and-locally-consistent-image-completion-SIGGRAPH.html)
