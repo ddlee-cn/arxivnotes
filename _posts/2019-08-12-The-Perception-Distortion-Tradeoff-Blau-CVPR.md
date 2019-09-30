@@ -26,7 +26,7 @@ redirect_from: /The-Perception-Distortion-Tradeoff-Blau-CVPR.html
 ## Motivation & Design
 ![CleanShot 2019-08-17 at 16.01.35@2x](https://i.imgur.com/gFfPApr.jpg)
 
-Problem setting: Given an original image $x ∼ p_X$ , a degraded image y is observed according to some conditional distribution $p_Y |X $. Given the degraded image $y$, an estimate $x$ is constructed according to some conditional distribution $p_{\hat{X}} |Y$ . Distortion is quantified by the mean of some distortion measure between Xˆ and X. The perceptual quality index corresponds to the deviation between $p_{\hat{X}}$  and $p_X$.
+Problem setting: Given an original image $x ∼ p_X$ , a degraded image y is observed according to some conditional distribution $p_Y \|X $. Given the degraded image $y$, an estimate $x$ is constructed according to some conditional distribution $p_{\hat{X}} \|Y$ . Distortion is quantified by the mean of some distortion measure between Xˆ and X. The perceptual quality index corresponds to the deviation between $p_{\hat{X}}$  and $p_X​$.
 
 The perception-distortion function of a signal restoration task is given by:
 $$
