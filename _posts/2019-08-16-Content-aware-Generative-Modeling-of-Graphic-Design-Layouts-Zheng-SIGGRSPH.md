@@ -50,10 +50,6 @@ The loss of encoder: reconstruction loss and Kullback-Leibler (KL) divergence lo
 **Diversity**
 ![Content-aware Generative Modeling of Graphic Design Layouts - Zheng - SIGGRSPH 2019](https://i.imgur.com/xIu4TQJ.jpg)
 
-**Constrained layout generation results**
-In each case, the input con- tents and the input sketch that indicates the approximate positions and sizes of the desired elements in the output layouts (“T ”: Text element, “I ”: Image element, “H”: Headline element, “T\I”: Text-over-image element, “H \I ”: Headline-over-image element) are shown on the left. Results by the baseline (Baseline), our method (Ours), and the ground truth (Ground Truth) are shown on the right, where the Headline is filled with a sequence of A’s in bold. Note that, in each case, the text and image proportions used in both our method and the baseline are obtained from the ground truth layout. 
-![Content-aware Generative Modeling of Graphic Design Layouts - Zheng - SIGGRSPH 2019](https://i.imgur.com/s3DtBJZ.jpg)
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -65,6 +61,10 @@ In each case, the input con- tents and the input sketch that indicates the appro
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+**Constrained layout generation results**
+In each case, the input con- tents and the input sketch that indicates the approximate positions and sizes of the desired elements in the output layouts (“T ”: Text element, “I ”: Image element, “H”: Headline element, “T\I”: Text-over-image element, “H \I ”: Headline-over-image element) are shown on the left. Results by the baseline (Baseline), our method (Ours), and the ground truth (Ground Truth) are shown on the right, where the Headline is filled with a sequence of A’s in bold. Note that, in each case, the text and image proportions used in both our method and the baseline are obtained from the ground truth layout. 
+![Content-aware Generative Modeling of Graphic Design Layouts - Zheng - SIGGRSPH 2019](https://i.imgur.com/s3DtBJZ.jpg)
 
 ## Related
 -  [Deep Generative Models(Part 1): Taxonomy and VAEs](https://arxivnote.ddlee.cn/Deep-Generative-Models-Taxonomy-VAE.html)

@@ -62,3 +62,10 @@ Given a pair of (orange) start- and (red) end-frames, we show various lengths ge
 
 ## Code
 - [Project Site](https://zswang666.github.io/P2PVG-Project-Page)
+
+## Related
+
+- [Image Generation from Layout - Zhao - CVPR 2019](https://arxivnote.ddlee.cn/2019/08/24/Image-Generation-from-Layout-Zhao-CVPR-2019.html)
+- [MoCoGAN: Decomposing Motion and Content for Video Generation - Tulyakov - CVPR 2018](https://arxivnote.ddlee.cn/2019/09/13/MoCoGAN-Decomposing-Motion-and-Content-for-Video-Generation-Tulyakov-CVPR-2018.html)
+- [Recycle-GAN: Unsupervised Video Retargeting - Bansal - ECCV 2018](https://arxivnote.ddlee.cn/2019/09/17/Recycle-GAN-Unsupervised-Video-Retargeting-Bansal-ECCV-2018.html)
+- [Video Generation from Single Semantic Label Map - Junting Pan - CVPR 2019](https://arxivnote.ddlee.cn/2019/09/19/Video-Generation-from-Single-Semantic-Label-Map-Junting-Pan-CVPR-2019.html)

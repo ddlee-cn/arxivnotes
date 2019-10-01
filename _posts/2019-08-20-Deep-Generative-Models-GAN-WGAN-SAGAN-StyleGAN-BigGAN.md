@@ -13,10 +13,6 @@ This is the third part of Deep Generative Models([Part 1](https://arxivnote.ddle
 
 
 
-
-
-
-
 ## GANs: Generative Adversarial Network
 
 ### Generative Adversarial Networks - Goodfellow - NIPS 2014
@@ -321,7 +317,4 @@ We've reviewed the history and state-of-the-art deep generative models, and buil
 - [Deep Generative Models(Part 2): Flow-based Models(include PixelCNN)](https://arxivnote.ddlee.cn/Deep-Generative-Models-Flow-based-Models-PixelCNN.html)
 - [Image to Image Translation(1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN](https://arxivnote.ddlee.cn/Image-to-image-Translation-pix2pix-CycleGAN-UNIT-BicycleGAN-StarGAN.html)
 - [Image to Image Translation(2): pix2pixHD, MUNIT, DRIT, vid2vid, SPADE, INIT, and FUNIT](https://arxivnote.ddlee.cn/Image-to-image-Translation-pix2pixHD-MUNIT-DRIT-vid2vid-SPADE-INIT-FUNIT.html)
-- VQ-VAE: [Neural Discrete Representation Learning - van den Oord - NIPS 2017](https://arxivnote.ddlee.cn/Neural-Discrete-Representation-Learning.html)
-- VQ-VAE-2: [ Generating Diverse High-Fidelity Images with VQ-VAE-2 - Razavi - 2019](https://arxivnote.ddlee.cn/Generating-Diverse-High-Fidelity-Images-with-VQ-VAE-2.html)
-- [Glow: Generative Flow with Invertible 1x1 Convolutions - Kingma & Dhariwal - NIPS 2018](https://arxivnote.ddlee.cn/Glow-Generative-Flow-with-Invertible-1x1-Convolutions-Kingma-Dhariwal-NIPS.html)
-- [From Classification to Panoptic Segmentation: 7 years of Visual Understanding with Deep Learning](https://arxivnote.ddlee.cn/Classification-to-Panoptic-Segmentation-visual-understanding-CVPR.html)
+- [GANs in PyTorch: DCGAN, cGAN, LSGAN, InfoGAN, WGAN and more](https://cvnote.ddlee.cn/2019/09/25/GANs-PyTorch.html)

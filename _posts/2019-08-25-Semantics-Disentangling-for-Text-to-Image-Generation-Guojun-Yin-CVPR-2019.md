@@ -17,7 +17,7 @@ redirect_from: /Semantics-Disentangling-for-Text-to-Image-Generation-Guojun-Yin-
 
 ## Highlights
 
-Distill Semantic Commons from Text- The proposed SD_LIJIACHENG@163.COM-GAN distills semantic commons from the linguistic descriptions, based on which the generated images can keep generation consistency under expression variants. To our best knowledge, it is the first time to introduce the Siamese mechanism into the cross-modality generation.
+Distill Semantic Commons from Text- The proposed SD-GAN distills semantic commons from the linguistic descriptions, based on which the generated images can keep generation consistency under expression variants. To our best knowledge, it is the first time to introduce the Siamese mechanism into the cross-modality generation.
 
 Retain Semantic Diversities & Details from Text- To complement the Siamese mechanism that may lose unique semantic diversities, we design an enhanced visual-semantic embedding method by reformulating the batch normalization layer with the instance linguistic cues. The linguistic embedding can further guide the visual pattern synthesis for fine-grained image generation.
 
@@ -40,8 +40,8 @@ The architecture of SD-GAN. The robust semantic-related text-to-image generation
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+### The Generators in the proposed SD-GAN
 
-###The Generators in the proposed SD-GAN
 (a) G0 , the generator at the initial stage from the linguistic to vision, (b) G1/G2, the generator at the second/third stage for generating higher-resolution images based on generated visual features
 at the former stage. The SCBNs operate at the end of each upsampling layer.
 ![Semantics Disentangling for Text-to-Image Generation - Guojun Yin - CVPR 2019](https://i.imgur.com/kQHvjG4.png)

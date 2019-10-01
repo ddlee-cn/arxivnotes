@@ -19,7 +19,7 @@ redirect_from: /Bag-of-Tricks-for-Image-Classification-with-Convolutional-Neural
 
 Much of the recent progress made in image classification research can be credited to training procedure refinements, such as changes in data augmentations and optimization methods. In the literature, however, most refinements are either briefly mentioned as implementation details or only visible in source code. In this paper, we will examine a collection of such refinements and empirically evaluate their impact on the final model accuracy through ablation study. We will show that, by combining these refinements together, we are able to improve various CNN models significantly. For example, we raise ResNet-50's top-1 validation accuracy from 75.3% to 79.29% on ImageNet. We will also demonstrate that improvement on image classification accuracy leads to better transfer learning performance in other application domains such as object detection and semantic segmentation.
 
-![](https://i.imgur.com/ki1FXpz.png)
+![Bag of Tricks for Image Classification with Convolutional Neural Networks](https://i.imgur.com/ki1FXpz.png)
 
 ## Linear scaling learning rate
 
@@ -33,10 +33,10 @@ At the beginning of the training, all parameters are typically random values and
 
 The weight decay is often applied to all learnable parameters including both weights and bias. It’s
 equivalent to applying an L2 regularization to all parameters to drive their values towards 0. As pointed out by Jia et al. [14], however, it’s recommended to only apply the regularization to weights to avoid overfitting. The no bias decay heuristic follows this recommendation, it only applies the weight decay to the weights in convolution and fully-connected layers. Other parameters, including the biases and γ and β in BN layers, are left unregularized.
-![](https://i.imgur.com/KdwxV0H.png)
+![Bag of Tricks for Image Classification with Convolutional Neural Networks](https://i.imgur.com/KdwxV0H.png)
 
 ## Label Smoothing
-![](https://i.imgur.com/CDUtAgF.png)
+![Bag of Tricks for Image Classification with Convolutional Neural Networks](https://i.imgur.com/CDUtAgF.png)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -48,9 +48,17 @@ equivalent to applying an L2 regularization to all parameters to drive their val
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 ## Object Detection Results
-![](https://i.imgur.com/wDGtvF6.png)
+![Bag of Tricks for Image Classification with Convolutional Neural Networks](https://i.imgur.com/wDGtvF6.png)
 
 
 ## Semantic Segmentation Results
-![](https://i.imgur.com/zNhVmul.png)
+![Bag of Tricks for Image Classification with Convolutional Neural Networks](https://i.imgur.com/zNhVmul.png)
+
+
+
+## Related
+
+- [From Classification to Panoptic Segmentation: 7 years of Visual Understanding with Deep Learning](https://arxivnote.ddlee.cn/2019/08/17/Classification-to-Panoptic-Segmentation-visual-understanding-CVPR.html)
+- [Convolutional Neural Network Must Reads: Xception, ShuffleNet, ResNeXt and DenseNet](https://arxivnote.ddlee.cn/2019/08/14/convolutional-neural-network-xception-shufflenet-resnext-densenet.html)

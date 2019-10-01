@@ -38,3 +38,13 @@ The authors have done experiments on both CIFAR and ImageNet. DenseNet has achie
 
 ## Code
 [Caffe](https://github.com/liuzhuang13/DenseNet)
+
+
+
+## Related
+
+- [Convolutional Neural Network Must Reads: Xception, ShuffleNet, ResNeXt and DenseNet](https://arxivnote.ddlee.cn/2019/08/14/convolutional-neural-network-xception-shufflenet-resnext-densenet.html)
+
+- [From Classification to Panoptic Segmentation: 7 years of Visual Understanding with Deep Learning](https://arxivnote.ddlee.cn/2019/08/17/Classification-to-Panoptic-Segmentation-visual-understanding-CVPR.html)
+
+- [CondenseNet: An Efficient DenseNet using Learned Group Convolutions - Huang - CVPR 2018](https://arxivnote.ddlee.cn/2019/08/01/CondenseNet-An-Efficient-DenseNet-using-Learned-Group-Convolutions-Huang-CVPR.html)

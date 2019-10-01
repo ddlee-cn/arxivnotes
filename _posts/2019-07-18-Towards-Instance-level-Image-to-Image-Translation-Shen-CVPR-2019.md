@@ -64,3 +64,14 @@ A visualization for generated style distribution is also provided.
 
 ## Code
 [Project Site](http://zhiqiangshen.com/projects/INIT/index.html)
+
+
+
+## Related
+
+- [Image to Image Translation(1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN](https://arxivnote.ddlee.cn/2019/08/21/Image-to-image-Translation-pix2pix-CycleGAN-UNIT-BicycleGAN-StarGAN.html)
+- [Image to Image Translation(2): pix2pixHD, MUNIT, DRIT, vid2vid, SPADE and INIT](https://arxivnote.ddlee.cn/2019/08/22/Image-to-image-Translation-pix2pixHD-MUNIT-DRIT-vid2vid-SPADE-INIT-FUNIT.html)
+
+- [TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation - Wayne Wu - CVPR 2019](https://arxivnote.ddlee.cn/2019/08/28/TransGaGa-Geometry-Aware-Unsupervised-Image-to-Image-Translation-Wayne-Wu-CVPR-2019.html)
+
+- [InstaGAN: Instance-aware Image-to-Image Translation - Sangwoo Mo - ICLR 2019](https://arxivnote.ddlee.cn/2019/09/16/InstaGAN-Instance-aware-Image-to-Image-Translation-Sangwoo-Mo-ICLR-2019.html)
