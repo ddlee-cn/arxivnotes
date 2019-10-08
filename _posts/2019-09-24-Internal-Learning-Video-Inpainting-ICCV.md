@@ -43,7 +43,7 @@ We propose a novel video inpainting algorithm that simultaneously hallucinates m
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-In this work, we approach video inpainting with an internal learning formulation. The general idea is to use the input video as the training data to learn a generative neural network $G_{\theta}$ to generate each target frame $I^*_i$ from a corresponding noise map $I^*_i$. The noise map $I^*_i$ has one channel and shares the same spatial size with the input frame. We sample the input noise maps independently for each frame and fix them during training. The generative network $G_{\theta}$  is trained to predict both frames $\hat{I}_i$ and optical flow maps $\hat{F}_{i,i\pm t}$. The model is trained entirely on the input video (with holes) without any external data, optimizing the combination of the image generation loss $L_r$, perceptual loss $L_p$, flow generation loss $L_f$ and consistency loss $L_c$.
+In this work, we approach video inpainting with an internal learning formulation. The general idea is to use the input video as the training data to learn a generative neural network $G_{\theta}$ to generate each target frame $\hat{I}_i$ from a corresponding noise map $\hat{I}_i$. The noise map $\hat{I}_i$ has one channel and shares the same spatial size with the input frame. We sample the input noise maps independently for each frame and fix them during training. The generative network $G_{\theta}$  is trained to predict both frames $\hat{I}_i$ and optical flow maps $\hat{F}_{i,i\pm t}$. The model is trained entirely on the input video (with holes) without any external data, optimizing the combination of the image generation loss $L_r$, perceptual loss $L_p$, flow generation loss $L_f$ and consistency loss $L_c$.
 
 
 
@@ -51,12 +51,13 @@ In this work, we approach video inpainting with an internal learning formulation
 
 With the network jointly predicts images and flows, we define the image-flow consistency loss
 to encourage the generated frames and the generated flows to constrain each other: the neighboring frames should be generated such that they are consistent with the predicted flow between them.
+
 $$
 L_{c}\left(\hat{I}_{j}, \hat{F}_{i, j}\right)=\left\|\left(1-M_{i, j}^{f}\right) \odot\left(\hat{I}_{j}\left(\hat{F}_{i, j}\right)-\hat{I}_{i}\right)\right\|_{2}^{2}
 $$
 
 
-$\hat{I}_{j}\left(\hat{F}_{i, j}\right)$ denotes where the warped version of the generated frame $\hat{I}_{j}$ using the generated flow $F̂_{i,j} $ through backward warping. We constrain this loss only in the hole regions f using the inverse mask $1−M_{i,j}$  to encourage the training to focus on propagating information inside the hole. We find this simple and intuitive loss term allows the network to learn the notion of flow and leverage it to propagate training signal across distant frames.
+$\hat{I}_{j}\left(\hat{F}_{i, j}\right)​$ denotes where the warped version of the generated frame $\hat{I}_{j}​$ using the generated flow $F̂_{i,j} ​$ through backward warping. We constrain this loss only in the hole regions f using the inverse mask $1−M_{i,j}​$  to encourage the training to focus on propagating information inside the hole. We find this simple and intuitive loss term allows the network to learn the notion of flow and leverage it to propagate training signal across distant frames.
 
 
 
