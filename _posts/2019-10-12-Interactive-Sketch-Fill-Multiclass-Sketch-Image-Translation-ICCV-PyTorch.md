@@ -1,5 +1,5 @@
 ---
-title: Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch
+title: "Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch"
 tag:
 - Image-to-Image Translation
 - GAN

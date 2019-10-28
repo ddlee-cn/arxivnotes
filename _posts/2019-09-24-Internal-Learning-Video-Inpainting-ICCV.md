@@ -44,7 +44,7 @@ We propose a novel video inpainting algorithm that simultaneously hallucinates m
 </script>
 
 
-In this work, we approach video inpainting with an internal learning formulation. The general idea is to use the input video as the training data to learn a generative neural network $G_{\theta}$ to generate each target frame $\hat{I}_i$ from a corresponding noise map $\hat{I}_i$. The noise map $\hat{I}_i$ has one channel and shares the same spatial size with the input frame. We sample the input noise maps independently for each frame and fix them during training. The generative network $G_{\theta}$ is trained to predict both frames $\hat{I}_i$ and optical flow maps $\hat{F}_{i, i \pm t}$. The model is trained entirely on the input video (with holes) without any external data, optimizing the combination of the image generation loss $L_r$, perceptual loss $L_p$, flow generation loss $L_f$ and consistency loss $L_c$.
+In this work, we approach video inpainting with an internal learning formulation. The general idea is to use the input video as the training data to learn a generative neural network ${G}\theta$ to generate each target frame $\hat{I}_i$ from a corresponding noise map $\hat{I}_i$. The noise map $\hat{I}_i$ has one channel and shares the same spatial size with the input frame. We sample the input noise maps independently for each frame and fix them during training. The generative network $G_{\theta}$ is trained to predict both frames $\hat{I}_i$ and optical flow maps $\hat{F}_{i, i \pm t}$. The model is trained entirely on the input video (with holes) without any external data, optimizing the combination of the image generation loss $L_r$, perceptual loss $L_p$, flow generation loss $L_f$ and consistency loss $L_c$.
 
 **The Consistency Loss**
 
