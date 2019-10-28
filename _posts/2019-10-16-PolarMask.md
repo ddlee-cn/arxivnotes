@@ -92,3 +92,4 @@ Note the results are unfair.
 
 ## Related
 
+- [From Classification to Panoptic Segmentation: 7 years of Visual Understanding with Deep Learning](https://arxivnote.ddlee.cn/2019/08/17/Classification-to-Panoptic-Segmentation-visual-understanding-CVPR.html)

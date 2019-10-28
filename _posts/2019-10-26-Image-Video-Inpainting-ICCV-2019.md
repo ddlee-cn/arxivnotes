@@ -293,8 +293,39 @@ The key components of our DNN system are the alignment and the context matching.
      data-ad-client="ca-pub-4466575858054752"
      data-ad-slot="8787986126"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+
+## An Internal Learning Approach to Video Inpainting Highlights
+
+- Trained on the input video(with holes) only
+- Jointly synthesizing content in both appearance and motion domains
 
 
 
+![Internal Learning Video Inpainting](https://cs.stanford.edu/~haotianz/publications/video_inpainting/images/framework.png)
+
+
+In this work, we approach video inpainting with an internal learning formulation. The general idea is to use the input video as the training data to learn a generative neural network ${G}\theta$ to generate each target frame $\hat{I}_i$ from a corresponding noise map $\hat{I}_i$. The noise map $\hat{I}_i$ has one channel and shares the same spatial size with the input frame. We sample the input noise maps independently for each frame and fix them during training. The generative network $G_{\theta}$ is trained to predict both frames $\hat{I}_i$ and optical flow maps $\hat{F}_{i, i \pm t}$. The model is trained entirely on the input video (with holes) without any external data, optimizing the combination of the image generation loss $L_r$, perceptual loss $L_p$, flow generation loss $L_f$ and consistency loss $L_c$.
+
+**The Consistency Loss**
+
+With the network jointly predicts images and flows, we define the image-flow consistency loss
+to encourage the generated frames and the generated flows to constrain each other: the neighboring frames should be generated such that they are consistent with the predicted flow between them.
+
+$$
+L_{c}\left(\hat{I}_{j}, \hat{F}_{i, j}\right)=\left\|\left(1-M_{i, j}^{f}\right) \odot\left(\hat{I}_{j}\left(\hat{F}_{i, j}\right)-\hat{I}_{i}\right)\right\|_{2}^{2}
+$$
+
+
+$\hat{I}_{j}\left(\hat{F}_{i, j}\right)$ denotes where the warped version of the generated frame $\hat{I}_{j}$ using the generated flow $F̂_{i,j} $ through backward warping. We constrain this loss only in the hole regions f using the inverse mask $1−M_{i,j}​$  to encourage the training to focus on propagating information inside the hole. We find this simple and intuitive loss term allows the network to learn the notion of flow and leverage it to propagate training signal across distant frames.
+
+
+
+## Related
+
+- [Image Inpainting: From PatchMatch to Pluralistic](https://arxivnote.ddlee.cn/2019/09/22/Image-Inpainting-PatchMatch-Edge-Connect-Partial-Conv.html)
+- [Generative Image Inpainting with Contextual Attention - Yu - CVPR 2018 - TensorFlow](https://arxivnote.ddlee.cn/2019/08/06/Generative-Image-Inpainting-with-Contextual-Attention-Yu-CVPR-TensorFlow.html)
+- [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning - Nazeri - 2019 - PyTorch](https://arxivnote.ddlee.cn/2019/08/05/EdgeConnect-Generative-Image-Inpainting-with-Adversarial-Edge-Learning-Nazeri.html)
+- [Globally and locally consistent image completion - Iizuka - SIGGRAPH 2017](https://arxivnote.ddlee.cn/2019/08/04/Globally-and-locally-consistent-image-completion-SIGGRAPH.html)
+- [Deep Flow-Guided Video Inpainting - Rui Xu - CVPR 2019](https://arxivnote.ddlee.cn/2019/09/28/Flow-Guided-Video-Inpainting.html)
+- [An Internal Learning Approach to Video Inpainting - Haotian Zhang - ICCV 2019](https://arxivnote.ddlee.cn/2019/09/24/Internal-Learning-Video-Inpainting-ICCV.html)

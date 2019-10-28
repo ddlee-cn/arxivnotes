@@ -1,7 +1,7 @@
 ---
 title: Few-shot Video-to-Video Synthesis
 tag:
-- Video-to-Video Translation
+- Video Translation
 - Few-Shot Learning
 ---
 
@@ -111,4 +111,13 @@ The model results are available at the [Project Site](https://nvlabs.github.io/f
 
 
 ## Related
+
+- [Mocycle-GAN: Unpaired Video-to-Video Translation - Yang Chen - ACM MM 2019](https://arxivnote.ddlee.cn/2019/09/20/Mocycle-GAN-Unpaired-Video-to-Video-Translation-Yang-Chen-ACMMM-2019.html)
+- [Recycle-GAN: Unsupervised Video Retargeting - Bansal - ECCV 2018](https://arxivnote.ddlee.cn/2019/09/17/Recycle-GAN-Unsupervised-Video-Retargeting-Bansal-ECCV-2018.html)
+- [mage to Image Translation(1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN](https://arxivnote.ddlee.cn/2019/08/21/Image-to-image-Translation-pix2pix-CycleGAN-UNIT-BicycleGAN-StarGAN.html)
+- [Image to Image Translation(2): pix2pixHD, MUNIT, DRIT, vid2vid, SPADE and INIT](https://arxivnote.ddlee.cn/2019/08/22/Image-to-image-Translation-pix2pixHD-MUNIT-DRIT-vid2vid-SPADE-INIT-FUNIT.html)
+
+- [PyTorch Code for vid2vid](https://cvnote.ddlee.cn/2019/09/06/vid2vid-PyTorch-GitHub.html)
+
+- [PyTorch Code for SPADE](https://cvnote.ddlee.cn/2019/09/14/SPADE-PyTorch-GitHub.html)
 
