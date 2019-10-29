@@ -1,5 +1,5 @@
 ---
-title: "CondConv: Conditionally Parameterized Convolutions for Efficient Inference"
+title: "CondConv: Conditionally Parameterized Convolutions for Efficient Inference - Brandon Yang - NIPS 2019"
 tag:
 - CNN
 ---

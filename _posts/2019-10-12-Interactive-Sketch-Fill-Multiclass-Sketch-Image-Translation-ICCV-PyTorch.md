@@ -1,5 +1,5 @@
 ---
-title: "Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch"
+title: "Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - Ghosh - ICCV 2019 - PyTorch"
 tag:
 - Image-to-Image Translation
 - GAN
@@ -10,7 +10,7 @@ tag:
 
 - Title:  Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation
 - Task: Image-to-Image Translation
-- Author:
+- Author: Arnab Ghosh Richard Zhang Puneet K. Dokania Oliver Wang Alexei A. Efros Philip H. S. Torr Eli Shechtman
 - Date: Sep. 2019
 - Arxiv: [1909.11081](https://arxiv.org/abs/1909.11081)
 - Published: ICCV 2019
@@ -41,7 +41,7 @@ artist feedback on the general object shape in our interactive interface , allow
 
 
 
-![](https://arnabgho.github.io/iSketchNFill/resources/imgs/method.png)
+![Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch](https://arnabgho.github.io/iSketchNFill/resources/imgs/method.png)
 
 First, complete a partial sketch using the shape generator $G_S$ . Then translate the completed sketch into an image using the appearance generator $G_A$ . Both generators are trained with their respective discriminators $D_S$ , and $D_A$.
 
@@ -55,7 +55,7 @@ To achieve multi-modal completions, the shape generator is designed using inspir
 
 
 
-![](https://i.imgur.com/9gEjSrP.png)
+![Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch](https://i.imgur.com/9gEjSrP.png)
 
 
 
@@ -85,7 +85,7 @@ For the second stage, we use a multi-class generator that is conditioned on a us
 
 
 
-![](https://i.imgur.com/FJ2P4KO.png)
+![Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch](https://i.imgur.com/FJ2P4KO.png)
 
 
 
@@ -93,7 +93,7 @@ The model uses gating on all the residual blocks of the generator and the discri
 
 
 
-![](https://i.imgur.com/PZIFGrI.png)
+![Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch](https://i.imgur.com/PZIFGrI.png)
 
 
 
@@ -114,7 +114,7 @@ The model uses gating on all the residual blocks of the generator and the discri
 ## Experiments & Ablation Study
 
 
-![](https://i.imgur.com/OBtStTn.png)
+![Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV 2019 - PyTorch](https://i.imgur.com/OBtStTn.png)
 
 
 

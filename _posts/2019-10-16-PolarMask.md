@@ -7,11 +7,16 @@ tag:
 ## Info
 
 - Title: PolarMask: Single Shot Instance Segmentation with Polar Representation
+
 - Task: Instance Segmentation
+
 - Author: Enze Xie, Peize Sun , Xiaoge Song, Wenhai Wang, Xuebo Liu, Ding Liang, Chunhua Shen, Ping Luo
+
 - Date: Sep. 2019
+
 - Arxiv: [1909.13226](https://arxiv.org/abs/1909.13226)
-- Published: ICCV 2019
+
+  
 
 ## Highlights
 

@@ -26,7 +26,7 @@ Unsupervised image-to-image translation methods learn to map images in a given c
 
 
 
-![](https://nvlabs.github.io/FUNIT/images/problem.jpg)
+![(FUNIT)Few-Shot Unsupervised Image-to-Image Translation](https://nvlabs.github.io/FUNIT/images/problem.jpg)
 
 
 
@@ -44,7 +44,7 @@ To generate a translation output $x̄$, the translator combines the class latent
 
 
 
-![](https://i.imgur.com/i3gWfbQ.png)
+![(FUNIT)Few-Shot Unsupervised Image-to-Image Translation](https://i.imgur.com/i3gWfbQ.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Selective Kernel Networks
+title: Selective Kernel Networks - Xiang Li - CVPR 2019
 tag:
 - CNN
 - Image Classification

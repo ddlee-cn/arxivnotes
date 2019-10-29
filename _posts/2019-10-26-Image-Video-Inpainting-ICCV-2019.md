@@ -4,6 +4,7 @@ tag:
 - Image Inpainting
 - Video Inpainting
 - Low-level Vision
+- Review
 ---
 
 ## StructureFlow: Image Inpainting via Structure-Aware Appearance Flow

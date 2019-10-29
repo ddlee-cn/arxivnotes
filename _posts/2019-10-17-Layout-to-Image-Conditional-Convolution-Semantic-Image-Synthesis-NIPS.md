@@ -1,5 +1,5 @@
 ---
-title: Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis
+title: Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis - NIPS 2019
 tag:
 - Image Generation
 - Conditioned Image Synthesis
