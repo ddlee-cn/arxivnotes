@@ -71,7 +71,7 @@ $$
 
 ### Deformable Convolution
 
-### 
+
 
 $$
 \boldsymbol{O}_{j}=\sum_{\boldsymbol{k} \in \mathcal{K}} \boldsymbol{I}_{j+\boldsymbol{k}+\Delta j} \boldsymbol{W}_{\boldsymbol{k}}
@@ -83,8 +83,6 @@ the ERF of Deformable Convolution:
 $$
 \mathcal{R}_{\mathrm{DC}}^{(n)}(i ; j)=\sum_{k_{m} \in \mathcal{K}} \mathcal{R}^{(n)}\left(i ; j+k_{m}+\Delta j_{m}, k_{m}\right)
 $$
-
-### 
 
 ### Deformable Kernel
 
@@ -151,3 +149,8 @@ In practice, we implement Gglobal as a stack of one global average pooling layer
 
 ## Related
 
+- [Deformable Convolution in Object Detection: PyTorch Implementation(with CUDA)](https://cvnote.ddlee.cn/2019/09/19/Deformable-Conv-PyTorch.html)
+
+- [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxivnote.ddlee.cn/2019/10/15/CondConv-Conditionally-Parameterized-Convolutions-NIPS-2019.html)
+
+- [Selective Kernel Networks](https://arxivnote.ddlee.cn/2019/10/14/Selective-Kernel-Networks-CVPR-2019.html)

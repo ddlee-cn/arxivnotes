@@ -3,6 +3,7 @@ title: "Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation - ICCV
 tag:
 - Image-to-Image Translation
 - GAN
+- Conditioned Image Synthesis
 ---
 
 ## Info

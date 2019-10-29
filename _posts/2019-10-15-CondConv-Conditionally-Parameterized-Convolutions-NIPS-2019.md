@@ -336,3 +336,6 @@ class DepthwiseCondConv2D(tf.keras.layers.DepthwiseConv2D):
 
 ## Related
 
+- [Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation](https://arxivnote.ddlee.cn/2019/10/13/Deformable-Kernels.html)
+- [Selective Kernel Networks](https://arxivnote.ddlee.cn/2019/10/14/Selective-Kernel-Networks-CVPR-2019.html)
+

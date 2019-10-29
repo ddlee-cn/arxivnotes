@@ -2,7 +2,7 @@
 title: Test-Time Training for Out-of-Distribution Generalization - Yu Sun - 2019
 tag:
 - Theoretical
-- Domain Adaption
+- Domain Adaptation
 
 ---
 

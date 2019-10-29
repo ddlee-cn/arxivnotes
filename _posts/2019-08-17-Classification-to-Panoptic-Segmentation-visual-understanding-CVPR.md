@@ -1,7 +1,7 @@
 ---
 title: "From Classification to Panoptic Segmentation: 7 years of Visual Understanding with Deep Learning"
 tag:
-- Visual Understanding
+- Image Classification
 - Review
 redirect_from: /Classification-to-Panoptic-Segmentation-visual-understanding-CVPR.html
 ---

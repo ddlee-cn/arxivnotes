@@ -2,7 +2,7 @@
 title: "Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff - Blau - ICML 2019"
 tag:
 - Low-Level Vision
-- Theory
+- Theoretical
 redirect_from: /Rethinking-Lossy-Compression-The-Rate-Distortion-Perception-Tradeoff-Blau-ICML.html
 ---
 

@@ -3,6 +3,7 @@ title: Few-Shot Unsupervised Image-to-Image Translation
 tag:
 - Image-to-Image Translation
 - Few-Shot Learning
+- Conditioned Image Synthesis
 ---
 
 ## Info
@@ -50,7 +51,7 @@ To generate a translation output $x̄$, the translator combines the class latent
 
 ### The Multi-task Discriminator
 
-Our discriminator D is trained by solving multiple adversarial classification tasks simultaneously. Each of the tasks is a binary classification task determining whether an input image is a real image of the source class or a translation output coming from G. As there are $|S|$ source classes, D produces $|S|$ outputs. When updating D for a real image of source class $c_X$, we penalize D if its $c_X$th output is false. For a translation output yielding a fake image of source class $c_X$, we penalize D if its $c_X$th output is positive. We do not penalize D for not predicting false for images of other classes (S\{$c_X$}). When updating G, we only penalize G if the $c_X$ th output of D is false.
+Our discriminator D is trained by solving multiple adversarial classification tasks simultaneously. Each of the tasks is a binary classification task determining whether an input image is a real image of the source class or a translation output coming from G. As there are $S$ source classes, D produces $S$ outputs. When updating D for a real image of source class $c_X$, we penalize D if its $c_X$th output is false. For a translation output yielding a fake image of source class $c_X$, we penalize D if its $c_X$th output is positive. We do not penalize D for not predicting false for images of other classes (S\{$c_X$}). When updating G, we only penalize G if the $c_X$ th output of D is false.
 
 
 
@@ -503,6 +504,8 @@ class Trainer(nn.Module):
 
 
 ## Related
+
+- [Few-shot Video-to-Video Synthesis](https://arxivnote.ddlee.cn/2019/10/28/Few-Shot-Video-to-Video-Synthesis-NIPS.html)
 
 - [Image to Image Translation(1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN](https://arxivnote.ddlee.cn/2019/08/21/Image-to-image-Translation-pix2pix-CycleGAN-UNIT-BicycleGAN-StarGAN.html)
 - [Image to Image Translation(2): pix2pixHD, MUNIT, DRIT, vid2vid, SPADE and INIT](https://arxivnote.ddlee.cn/2019/08/22/Image-to-image-Translation-pix2pixHD-MUNIT-DRIT-vid2vid-SPADE-INIT-FUNIT.html)

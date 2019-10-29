@@ -2,7 +2,6 @@
 title: (RetinaNet)Focal loss for dense object detection - Lin  - ICCV 2017
 tag:
 - Object Detection
-- Loss Function
 redirect_from: /RetinaNet-Focal-loss-for-dense-object-detection-Lin-ICCV-2017.html
 ---
 

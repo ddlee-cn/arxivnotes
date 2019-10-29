@@ -187,3 +187,6 @@ void AxpyLayer<Dtype>::Backward_gpu(const vector<Blob<Dtype>*>& top,
 
 ## Related
 
+- [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxivnote.ddlee.cn/2019/10/15/CondConv-Conditionally-Parameterized-Convolutions-NIPS-2019.html)
+
+- [Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation](https://arxivnote.ddlee.cn/2019/10/13/Deformable-Kernels.html)

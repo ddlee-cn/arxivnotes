@@ -2,7 +2,6 @@
 title: Deep Flow-Guided Video Inpainting - Rui Xu - CVPR 2019
 tag:
 - Video Inpainting
-- Video
 - Low-Level Vision
 
 ---

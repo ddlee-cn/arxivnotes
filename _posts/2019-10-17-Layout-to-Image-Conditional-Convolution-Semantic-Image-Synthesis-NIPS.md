@@ -29,7 +29,7 @@ framework of our proposed CC-FPSE. The weight prediction network predicts weight
 
 ### Conditional Convolution
 
-To mitigate the problem, SPADE [25] uses the label maps to predict spatially-adaptive affine transformations for modulating the activations in normalization layers. However, such feature modulation by simple affine transformations is limited in representational power and flexibility.
+To mitigate the problem, SPADE uses the label maps to predict spatially-adaptive affine transformations for modulating the activations in normalization layers. However, such feature modulation by simple affine transformations is limited in representational power and flexibility.
 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -82,3 +82,4 @@ The proposed  feature pyramid discriminator takes the input image at a single sc
 - [Towards Instance-level Image-to-Image Translation - Shen - CVPR 2019](https://arxivnote.ddlee.cn/2019/07/18/Towards-Instance-level-Image-to-Image-Translation-Shen-CVPR-2019.html)
 
 - [PyTorch Code for SPADE](https://cvnote.ddlee.cn/2019/09/14/SPADE-PyTorch-GitHub.html)
+
