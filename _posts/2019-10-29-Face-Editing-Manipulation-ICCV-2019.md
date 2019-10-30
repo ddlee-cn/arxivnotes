@@ -117,3 +117,14 @@ Network architecture of SC-FEGAN. LRN is applied after each convolutional layers
 
 ![SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color](https://i.imgur.com/rq1Nqny.png)
 
+
+
+## Related
+
+- [ICCV 2019: Image Synthesis(Part One)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019.html)
+- [ICCV 2019: Image Synthesis(Part Two)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019-2.html)
+- [ICCV 2019: Image and Video Inpainting](https://arxivnote.ddlee.cn/2019/10/26/Image-Video-Inpainting-ICCV-2019.html)
+- [ICCV 2019: Image-to-Image Translation](https://arxivnote.ddlee.cn/2019/10/24/Image-to-Image-Translation-ICCV-2019.html)
+- [ICCV 2019: Face Editing and Manipulation](https://arxivnote.ddlee.cn/2019/10/29/Face-Editing-Manipulation-ICCV-2019.html)
+- [Generative Image Inpainting with Contextual Attention - Yu - CVPR 2018 - TensorFlow](https://arxivnote.ddlee.cn/2019/08/06/Generative-Image-Inpainting-with-Contextual-Attention-Yu-CVPR-TensorFlow.html)
+- [How DeepFakes FaceSwap Work: Step by Step Explaination with Codes](https://cvnote.ddlee.cn/2019/09/27/DeepFake-Explained.html)

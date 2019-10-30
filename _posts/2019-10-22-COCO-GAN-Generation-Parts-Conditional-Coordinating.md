@@ -1,5 +1,5 @@
 ---
-title: "COCO-GAN: Generation by Parts via Conditional Coordinating"
+title: "COCO-GAN: Generation by Parts via Conditional Coordinating - Chieh Hubert Lin - ICCV 2019"
 tag:
 - Image Synthesis
 
@@ -411,6 +411,13 @@ class ContentPredictorBuilder(Model):
             return tf.nn.tanh(h)
 ```
 
-
 ## Related
+
+- [ICCV 2019: Image Synthesis(Part One)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019.html)
+- [ICCV 2019: Image Synthesis(Part Two)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019-2.html)
+- [ICCV 2019: Image-to-Image Translation](https://arxivnote.ddlee.cn/2019/10/24/Image-to-Image-Translation-ICCV-2019.html)
+
+- [GANs for Image Generation: ProGAN, SAGAN, BigGAN, StyleGAN](https://cvnote.ddlee.cn/2019/09/15/ProGAN-SAGAN-BigGAN-StyleGAN.html)
+- [GANs in PyTorch: DCGAN, cGAN, LSGAN, InfoGAN, WGAN and more](https://cvnote.ddlee.cn/2019/09/25/GANs-PyTorch.html)
+- [Common Training Loss Curve of DCGAN and WGAN](https://cvnote.ddlee.cn/2019/09/26/DCGAN-WGAN-Training-Loss-Curve.html)
 

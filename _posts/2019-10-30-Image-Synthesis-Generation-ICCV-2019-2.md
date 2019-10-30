@@ -53,6 +53,10 @@ $$
 
 
 
+Full notes with code: [SinGAN: Learning a Generative Model From a Single Natural Image - ICCV 2019 - PyTorch](https://arxivnote.ddlee.cn/2019/10/23/SinGAN-Generative-Model-Single-Natural-Image.html)
+
+
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -120,14 +124,25 @@ InGAN uses a multi-scale D. This feature is significant: A single scale discrimi
 
 ## Specifying Object Attributes and Relations in Interactive Scene Generation(Best Paper Honorable Mentions)
 
-![Specifying Object Attributes and Relations in Interactive Scene Generation](https://github.com/ashual/scene_generation/blob/master/images/scene_generation.png)
+
+
+![Specifying Object Attributes and Relations in Interactive Scene Generation](https://i.imgur.com/5OCPTD4.png)
+
+
 
 (top row) the schematic illustration panel of the user interface, in which the user arranges the desired objects. (2nd row) the scene graph that is inferred automatically based on this layout. (3rd row) the layout that is created from the scene graph. (bottom row) the generated image. Legend for the GUI colors in the top row: purple – adding an object, green – resizing it, red – replacing its appearance. (a) A simple layout with a sky object, a tree and a grass object. All object appearances are initialized to a random archetype appearance. (b) A giraffe is added. (c) The giraffe is enlarged. (d) The appearance of the sky is changed to a different archetype. (e) A small sheep is added. (f) An airplane is added. (g) The tree is enlarged.
 
 
-![Specifying Object Attributes and Relations in Interactive Scene Generation](https://github.com/ashual/scene_generation/blob/master/images/arch.png)
+
+![Specifying Object Attributes and Relations in Interactive Scene Generation](https://i.imgur.com/hmXHK1I.png)
+
+
 
 The architecture of our composite network, including the subnetworks G, M, B, A, R, and the process of creating the layout tensor t. The scene graph is passed to the network G to create the layout embedding ui of each object. The bounding box bi is created from this embedding, using network B. A random vector zi is concatenated to ui , and the network M computes the mask mi . The appearance information, as encoded by the network A, is then added to create the tensor t with c + d5 channels, c being the number of classes. The autoencoder R generates the final image p from this tensor.
+
+
+
+Full notes with code: [Specifying Object Attributes and Relations in Interactive Scene Generation](https://arxivnote.ddlee.cn/2019/10/20/Specifying-Object-Attributes-Relations-Interactive-Scene-Generation-ICCV-2019.html)
 
 
 
@@ -203,3 +218,20 @@ Traditional training methods suffer from catastrophic forgetting: when we add ne
 
 
 Given training data for the $t^{th}$ task, model Mt is trained to learn this current task. To avoid forgetting previous tasks, knowledge distillation is adopted to distill information from model Mt−1 to model Mt by encouraging the two networks to produce similar output values or patterns given the auxiliary data as inputs.
+
+
+
+## Related
+
+- [ICCV 2019: Image Synthesis(Part One)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019.html)
+- [ICCV 2019: Image Synthesis(Part Two)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019-2.html)
+- [ICCV 2019: Image and Video Inpainting](https://arxivnote.ddlee.cn/2019/10/26/Image-Video-Inpainting-ICCV-2019.html)
+- [ICCV 2019: Image-to-Image Translation](https://arxivnote.ddlee.cn/2019/10/24/Image-to-Image-Translation-ICCV-2019.html)
+- [ICCV 2019: Face Editing and Manipulation](https://arxivnote.ddlee.cn/2019/10/29/Face-Editing-Manipulation-ICCV-2019.html)
+- [GANs for Image Generation: ProGAN, SAGAN, BigGAN, StyleGAN](https://cvnote.ddlee.cn/2019/09/15/ProGAN-SAGAN-BigGAN-StyleGAN.html)
+- [Deep Generative Models(Part 3): GANs(from GAN to BigGAN)](https://arxivnote.ddlee.cn/2019/08/20/Deep-Generative-Models-GAN-WGAN-SAGAN-StyleGAN-BigGAN.html)
+- [Deep Generative Models(Part 2): Flow-based Models(include PixelCNN)](https://arxivnote.ddlee.cn/2019/08/19/Deep-Generative-Models-Flow-based-Models-PixelCNN.html)
+- [Deep Generative Models(Part 1): Taxonomy and VAEs](https://arxivnote.ddlee.cn/2019/08/18/Deep-Generative-Models-Taxonomy-VAE.html)
+- [Image to Image Translation(1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN](https://arxivnote.ddlee.cn/2019/08/21/Image-to-image-Translation-pix2pix-CycleGAN-UNIT-BicycleGAN-StarGAN.html)
+- [Image to Image Translation(2): pix2pixHD, MUNIT, DRIT, vid2vid, SPADE and INIT](https://arxivnote.ddlee.cn/2019/08/22/Image-to-image-Translation-pix2pixHD-MUNIT-DRIT-vid2vid-SPADE-INIT-FUNIT.html)
+

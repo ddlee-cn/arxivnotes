@@ -80,6 +80,6 @@ The proposed  feature pyramid discriminator takes the input image at a single sc
 - [U-GAT-IT: TensorFlow Implementation](https://cvnote.ddlee.cn/2019/09/10/U-GAT-IT-TensorFlow.html)
 - [U-GAT-IT: PyTorch Implementation](https://cvnote.ddlee.cn/2019/09/10/U-GAT-IT-PyTorch.html)
 - [Towards Instance-level Image-to-Image Translation - Shen - CVPR 2019](https://arxivnote.ddlee.cn/2019/07/18/Towards-Instance-level-Image-to-Image-Translation-Shen-CVPR-2019.html)
-
 - [PyTorch Code for SPADE](https://cvnote.ddlee.cn/2019/09/14/SPADE-PyTorch-GitHub.html)
+- [ICCV 2019: Image-to-Image Translation](https://arxivnote.ddlee.cn/2019/10/24/Image-to-Image-Translation-ICCV-2019.html)
 

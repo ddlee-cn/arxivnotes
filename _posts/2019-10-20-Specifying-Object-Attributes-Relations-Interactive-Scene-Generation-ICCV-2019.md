@@ -1,5 +1,5 @@
 ---
-title: Specifying Object Attributes and Relations in Interactive Scene Generation
+title: Specifying Object Attributes and Relations in Interactive Scene Generation - Ashual - ICCV 2019
 tag:
 - Image Synthesis
 - Interactive
@@ -20,15 +20,21 @@ We introduce a method for the generation of images from an input scene graph. Th
 
 
 
-
 ## Motivation & Design
 
-![](https://github.com/ashual/scene_generation/blob/master/images/scene_generation.png)
+
+
+![Specifying Object Attributes and Relations in Interactive Scene Generation](https://i.imgur.com/5OCPTD4.png)
+
+
 
 (top row) the schematic illustration panel of the user interface, in which the user arranges the desired objects. (2nd row) the scene graph that is inferred automatically based on this layout. (3rd row) the layout that is created from the scene graph. (bottom row) the generated image. Legend for the GUI colors in the top row: purple – adding an object, green – resizing it, red – replacing its appearance. (a) A simple layout with a sky object, a tree and a grass object. All object appearances are initialized to a random archetype appearance. (b) A giraffe is added. (c) The giraffe is enlarged. (d) The appearance of the sky is changed to a different archetype. (e) A small sheep is added. (f) An airplane is added. (g) The tree is enlarged.
 
 
-![](https://github.com/ashual/scene_generation/blob/master/images/arch.png)
+
+![Specifying Object Attributes and Relations in Interactive Scene Generation](https://i.imgur.com/hmXHK1I.png)
+
+
 
 The architecture of our composite network, including the subnetworks G, M, B, A, R, and the process of creating the layout tensor t. The scene graph is passed to the network G to create the layout embedding ui of each object. The bounding box bi is created from this embedding, using network B. A random vector zi is concatenated to ui , and the network M computes the mask mi . The appearance information, as encoded by the network A, is then added to create the tensor t with c + d5 channels, c being the number of classes. The autoencoder R generates the final image p from this tensor.
 
@@ -678,4 +684,12 @@ class Trainer:
 ```
 
 ## Related
+
+- [ICCV 2019: Image Synthesis(Part One)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019.html)
+- [ICCV 2019: Image Synthesis(Part Two)](https://arxivnote.ddlee.cn/2019/10/30/Image-Synthesis-Generation-ICCV-2019-2.html)
+- [ICCV 2019: Image-to-Image Translation](https://arxivnote.ddlee.cn/2019/10/24/Image-to-Image-Translation-ICCV-2019.html)
+
+- [GANs for Image Generation: ProGAN, SAGAN, BigGAN, StyleGAN](https://cvnote.ddlee.cn/2019/09/15/ProGAN-SAGAN-BigGAN-StyleGAN.html)
+- [GANs in PyTorch: DCGAN, cGAN, LSGAN, InfoGAN, WGAN and more](https://cvnote.ddlee.cn/2019/09/25/GANs-PyTorch.html)
+- [Common Training Loss Curve of DCGAN and WGAN](https://cvnote.ddlee.cn/2019/09/26/DCGAN-WGAN-Training-Loss-Curve.html)
 
