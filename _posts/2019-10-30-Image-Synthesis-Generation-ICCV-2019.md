@@ -1,5 +1,5 @@
 ---
-title: "ICCV 2019: Image Synthesis(Part One)"
+title: "ICCV 2019: Image Synthesis(Part 1)"
 tag:
 - Image Synthesis
 - Review

@@ -1,5 +1,5 @@
 ---
-title: "Image to Image Translation(1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN"
+title: "Image to Image Translation(Part 1): pix2pix, S+U, CycleGAN, UNIT, BicycleGAN, and StarGAN"
 tag:
 - Image-to-Image Translation
 - Review

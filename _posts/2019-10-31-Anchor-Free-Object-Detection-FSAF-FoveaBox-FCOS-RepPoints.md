@@ -1488,3 +1488,29 @@ class RepPointsHead(nn.Module):
         else:
             return mlvl_bboxes, mlvl_scores
 ```
+
+## Related
+
+- [Object Detection Must Reads(1): Fast RCNN, Faster RCNN, R-FCN and FPN](https://arxivnote.ddlee.cn/object-detectin-fast-rcnn-faster-rcnn-rfcn.html)
+
+- [Object Detection Must Reads(2): YOLO, YOLO9000, and RetinaNet](https://arxivnote.ddlee.cn/object-detection-must-reads-yolo-retinanet.html)
+
+- [Object Detection Must Reads(3): SNIP, SNIPER, OHEM, and DSOD](https://arxivnote.ddlee.cn/2019/08/13/Object-Detection-SNIPER-DSOD-OHEM.html)
+
+- [RoIPooling in Object Detection: PyTorch Implementation(with CUDA)](https://cvnote.ddlee.cn/2019/09/16/RoIPooling-PyTorch.html)
+
+- [Bounding Box(BBOX) IOU Calculation and Transformation in PyTorch](https://cvnote.ddlee.cn/2019/09/09/Bounding-Box-Transform.html)
+
+- [Object Detection: Anchor Generator in PyTorch](https://cvnote.ddlee.cn/2019/09/07/PyTorch-Anchor-Generator.html)
+
+- [Assign Ground Truth to Anchors in Object Detection with Python](https://cvnote.ddlee.cn/2019/09/21/Assign-Ground-Truth-Object-Detection.html)https://arxivnote.ddlee.cn/Deep-Generative-Models-GAN-WGAN-SAGAN-StyleGAN-BigGAN.html)
+
+- [From Classification to Panoptic Segmentation: 7 years of Visual Understanding with Deep Learning](https://arxivnote.ddlee.cn/Classification-to-Panoptic-Segmentation-visual-understanding-CVPR.html)
+
+- [Convolutional Neural Network Must Reads: Xception, ShuffleNet, ResNeXt and DenseNet](https://arxivnote.ddlee.cn/convolutional-neural-network-xception-shufflenet-resnext-densenet.html)
+
+- [Anchor-Free Object Detection(Part 1): CornerNet, CornerNet-Lite, ExtremeNet, CenterNet](https://arxivnote.ddlee.cn/2019/10/31/Anchor-Free-Object-Detection-CornetNet-CornerNet-Lite-ExtremeNet-CenterNet.html)
+
+- [Anchor-Free Object Detection(Part 2): FSAF, FoveaBox, FCOS, RepPoints](https://arxivnote.ddlee.cn/2019/10/31/Anchor-Free-Object-Detection-FSAF-FoveaBox-FCOS-RepPoints.html)
+
+  

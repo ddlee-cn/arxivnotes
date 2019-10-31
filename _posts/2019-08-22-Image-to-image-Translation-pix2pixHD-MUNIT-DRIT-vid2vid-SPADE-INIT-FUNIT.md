@@ -1,5 +1,5 @@
 ---
-title: "Image to Image Translation(2): pix2pixHD, MUNIT, DRIT, vid2vid, SPADE and INIT"
+title: "Image to Image Translation(Part 2): pix2pixHD, MUNIT, DRIT, vid2vid, SPADE and INIT"
 tag:
 - Image-to-Image Translation
 - GAN
