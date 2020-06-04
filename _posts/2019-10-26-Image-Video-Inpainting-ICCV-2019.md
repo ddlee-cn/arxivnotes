@@ -3,7 +3,7 @@ title: "ICCV 2019: Image and Video Inpainting"
 tag:
 - Image Inpainting
 - Video Inpainting
-- Low-level Vision
+- Low-Level Vision
 - Review
 ---
 

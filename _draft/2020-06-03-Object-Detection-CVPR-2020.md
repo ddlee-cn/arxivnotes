@@ -1,8 +1,7 @@
 ---
-title: 
-tag:
-- 
-- 
+title: Object Detection at CVPR 2020
+tag: 
+- Object Detection
 ---
 
 ## Info
@@ -18,27 +17,26 @@ tag:
 
 ## Highlights
 
-### **Problem**: What problem is it solving? Why does this problem matter?
+**Problem**: What problem is it solving? Why does this problem matter?
+
+
+**Assumption in prior work**: What was the assumption that prior research made when solving this problem? Why was that assumption inadequate?
 
 
 
-### **Assumption in prior work**: What was the assumption that prior research made when solving this problem? Why was that assumption inadequate?
+**Insight**: What is the novel idea that this paper introduces, breaking from that prior assumption?
 
 
 
-### **Insight**: What is the novel idea that this paper introduces, breaking from that prior assumption?
+**Technical overview**: How did the paper implement that insight? I.e., What did they build, or what did they prove, and how?
 
 
 
-### **Technical overview**: How did the paper implement that insight? I.e., What did they build, or what did they prove, and how?
+**Proof**: How did the paper evaluate or prove that its insight is correct, and is better than holding on to the old assumption?
 
 
 
-### **Proof**: How did the paper evaluate or prove that its insight is correct, and is better than holding on to the old assumption?
-
-
-
-### **Impact**: What are the implications of this paper? How will it change how we think about the problem?
+**Impact**: What are the implications of this paper? How will it change how we think about the problem?
 
 
 
