@@ -102,7 +102,7 @@ tag:
 - Arxiv: [123.123](https://arxiv.org/abs/)
 
 
-### **Problem**: 
+### **Problem**
 
 
 
