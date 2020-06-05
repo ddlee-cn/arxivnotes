@@ -237,6 +237,5 @@ def _align(cycles, embs, num_steps, num_cycles, cycle_length,
 
 - [Test-Time Training for Out-of-Distribution Generalization - Yu Sun - 2019](https://arxivnote.ddlee.cn/2019/09/30/Test-Time-Training-Generalization.html)
 - [Temporal Cycle-Consistency Learning - Dwibedi - CVPR 2019](https://arxivnote.ddlee.cn/2019/10/11/Temporal-Cycle-Consistency-Learning.html)
-- [Test-Time Training for Out-of-Distribution Generalization - Yu Sun - 2019](https://arxivnote.ddlee.cn/2019/09/30/Test-Time-Training-Generalization.html)
 - [Learning Correspondence from the Cycle-Consistency of Time - Xiaolong Wang - CVPR 2019](https://arxivnote.ddlee.cn/2019/09/29/Learning-Correspondence-Cycle-Consistency-Time.html)
 

@@ -13,6 +13,7 @@ tag:
 - Author: Enze Xie, Peize Sun , Xiaoge Song, Wenhai Wang, Xuebo Liu, Ding Liang, Chunhua Shen, Ping Luo
 
 - Date: Sep. 2019
+- Published: CVPR 2020(Oral)
 
 - Arxiv: [1909.13226](https://arxiv.org/abs/1909.13226)
 
